@@ -1,2 +1,2 @@
 # Notes-App
-Used Node.
+Notes-taking app with Nodejs
